@@ -20,7 +20,7 @@ There are some parameter which can be defined by user.
 ```
 # You can specific some learning parameters by given following arguments:
 --lr=$(LR)  # default is 0.1
---epochs=$(epochs)  # default is 200
+--epoch=$(epochs)  # default is 200
 ```
 You can use our pretrained models for quickly show the result.  
 ```
