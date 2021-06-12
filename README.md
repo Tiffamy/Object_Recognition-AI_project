@@ -14,7 +14,7 @@ You can simply train the model by execute train.py with some user-defined parame
 
 ```
 # You can train the specific model with: 
-python3 train.py --model=$(model_you_want_to_train)
+python3 main.py --model=$(model_you_want_to_train)
 ```
 There are some parameter which can be defined by user.
 ```
@@ -25,7 +25,7 @@ There are some parameter which can be defined by user.
 You can use our pretrained models for quickly show the result.  
 ```
 # You can use pretrained model provided by us:
-python3 evaluate.py --model=$(model_you_want_to_train) --pretrained=True
+python3 main.py --model=$(model_you_want_to_train) --pretrained=True
 ```
 Download pretrained models [HERE](https://drive.google.com/drive/folders/18hrbUlK1-fwN2j3exj2JmIf_pVcZTL_U?usp=sharing) and put all the .pth files into pretrained directory.  
 An example folder structure:
@@ -35,8 +35,7 @@ root
     └── resnet18.pth
     └── vgg16.pth
     ...
-└── train.py
-└── test.py
+└── main.py
 ...
 ```
 
