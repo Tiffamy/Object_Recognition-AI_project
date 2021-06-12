@@ -7,6 +7,6 @@ GPU training on Ubuntu Serer; CUDA version 10.1; Python 3.6+.
 
 ## Dataset
 We use "CIFAR-10" as our dataset.
-
+![image](https://github.com/Tiffamy/Object_Recognition-AI_project-/blob/main/image/cifar-10.png)
 ## Usage
 ## Results on different models
