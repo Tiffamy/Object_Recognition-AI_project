@@ -10,4 +10,22 @@ We use "CIFAR-10" as our dataset, which has 60000 32x32 images and 10 different 
 
 ![image](https://github.com/Tiffamy/Object_Recognition-AI_project-/blob/main/image/cifar-10.png)
 ## Usage
+You can simply train the model by execute train.py with some user-defined parameter.
+
+```
+# You can train the specific model with: 
+python3 train.py --model=$(model_you_want_to_train)
+```
+You can use our pretrained models for quickly show the result.  
+Download pretrained models [HERE](https://drive.google.com/drive/folders/18hrbUlK1-fwN2j3exj2JmIf_pVcZTL_U?usp=sharing).
+```
+# You can use pretrained model provided by us:
+python3 train.py --model=$(model_you_want_to_train) --pretrained=True
+```
+There are some parameter which can be defined by user.
+```
+# You can specific some learning parameter by given following arguments:
+--lr=$(LR)  # default is 0.1
+--epochs=$(epochs)  # default is 200
+```
 ## Results on different models
