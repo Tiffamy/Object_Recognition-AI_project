@@ -21,6 +21,7 @@ There are some parameter which can be defined by user.
 # You can specific some learning parameters by given following arguments:
 --lr=$(LR)  # default is 0.1
 --epoch=$(epochs)  # default is 200
+--train_batch=$(train_batch_size)  # default is 128
 ```
 You can use our pretrained models for quickly show the result.  
 ```
