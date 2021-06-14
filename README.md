@@ -44,5 +44,5 @@ You can use your own image and model provided by us to predict which class this 
 # If the image's resolution is far from 32x32, the result might be bad.
 python3 img_clf.py --model=$(model_you_want_to_use) $(image_path)
 ```
-* Note that you need to download pretrained model first or prepare your own pretrained model which should be stored as above folder structure.
+* Note that you need to download pretrained model first or prepare your own pretrained model (.pth) which should be stored as above folder structure.
 ## Results on different models
