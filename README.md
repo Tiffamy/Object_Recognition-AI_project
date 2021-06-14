@@ -41,7 +41,7 @@ root
 ```
 You can use your own image and model provided by us to predict which class this image belongs to.  
 ```
-# If the image's resolution is far from 32x32, the result might be bad:
+# If the image's resolution is far from 32x32, the result might be bad.
 python3 img_clf.py --model=$(model_you_want_to_use) $(image_path)
 ```
 
