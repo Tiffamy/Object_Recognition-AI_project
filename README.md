@@ -1,4 +1,4 @@
-# AI_project:Object-Recognition
+# AI_project:Object Recognition
 This is the final project of "Introduction to Aritificial Intelligence", and topic of this project is dicided as "Object-Recognition" temporally.
 
 ## Enviroment
