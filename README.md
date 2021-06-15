@@ -15,6 +15,15 @@ You can simply train the model by execute train.py with some user-defined parame
 ```
 # You can train the specific model with: 
 python3 main.py --model=$(model_you_want_to_use)
+
+# We provide following models for you:
+--model=resnet18
+--model=vgg16
+--model=mobilenet
+--model=mobilenet_v2
+--model=densenet121
+--model=googlenet
+--model=resnext29
 ```
 There are some parameter which can be defined by user.
 ```
