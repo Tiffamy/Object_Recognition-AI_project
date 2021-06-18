@@ -1,5 +1,5 @@
 # AI_project:Object Recognition
-This is the final project of "Introduction to Aritificial Intelligence", and topic of this project is dicided as "Object-Recognition" temporally.
+This is the final project of "Introduction to Aritificial Intelligence", and topic of this project is dicided as "Object-Recognition".
 
 ## Enviroment
 Multi-GPU training on Ubuntu Serer; CUDA version 10.1; Python 3.6+.
