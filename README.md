@@ -24,6 +24,8 @@ python3 main.py --model=$(model_you_want_to_use)
 --model=densenet121
 --model=googlenet
 --model=resnext29
+--model=our_model
+--model=our_model_v2
 ```
 There are some parameter which can be defined by user.
 ```
