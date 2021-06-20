@@ -58,4 +58,5 @@ You can use your own image and model provided by us to predict which class this 
 python3 img_clf.py --model=$(model_you_want_to_use) $(image_path)
 ```
 * Note that you need to download pretrained model first or prepare your own pretrained model(.pth) which should be stored as above folder structure.
+## Structure of our models
 ## Results on different models
