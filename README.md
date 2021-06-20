@@ -59,7 +59,7 @@ python3 img_clf.py --model=$(model_you_want_to_use) $(image_path)
 ```
 * Note that you need to download pretrained model first or prepare your own pretrained model(.pth) which should be stored as above folder structure.
 ## Structure of our models
-our_model_v1:
+our_model:
 
 ![image](https://github.com/Tiffamy/Object_Recognition-AI_project-/blob/main/image/v1.jpg)
 
