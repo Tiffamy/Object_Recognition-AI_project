@@ -26,6 +26,8 @@ python3 main.py --model=$(model_you_want_to_use)
 --model=resnext29
 --model=our_model
 --model=our_model_v2
+--model=our_model_v3
+--model=our_model_v4
 ```
 There are some parameter which can be defined by user.
 ```
