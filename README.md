@@ -69,4 +69,4 @@ our_model_v2:
 ## Results on different models
 Confusion matrix of resnet18:
 
-![image](https://github.com/Tiffamy/Object_Recognition-AI_project-/blob/main/image/exp2.jpg)
+![image](https://github.com/Tiffamy/Object_Recognition-AI_project-/blob/main/image/exp2.png)
