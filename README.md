@@ -72,11 +72,11 @@ Acuuray of all models:
 
 Confusion matrix of resnet18:
 
-![image](https://github.com/Tiffamy/Object_Recognition-AI_project-/blob/main/image/exp2.png)
+![image](https://github.com/Tiffamy/Object_Recognition-AI_project-/blob/main/image/resnet.png)
 
 Confusion matrix of our_model_v3:
 
-![image](https://github.com/Tiffamy/Object_Recognition-AI_project-/blob/main/image/exp3.png)
+![image](https://github.com/Tiffamy/Object_Recognition-AI_project-/blob/main/image/exp2.png)
 
 Confusion matrix of our_model_v4:
 
