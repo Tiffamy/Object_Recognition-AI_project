@@ -80,4 +80,4 @@ Confusion matrix of our_model_v3:
 
 Confusion matrix of our_model_v4:
 
-![image](https://github.com/Tiffamy/Object_Recognition-AI_project-/blob/main/image/exp2.png)
+![image](https://github.com/Tiffamy/Object_Recognition-AI_project-/blob/main/image/exp3.png)
