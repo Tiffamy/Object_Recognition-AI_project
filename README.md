@@ -9,6 +9,10 @@ Multi-GPU training on Ubuntu Serer; CUDA version 10.1; Python 3.6+.
 We use "CIFAR-10" as our dataset, which has 60000 32x32 images and 10 different classes (50000 for train, 10000 for test).
 
 ![image](https://github.com/Tiffamy/Object_Recognition-AI_project-/blob/main/image/cifar-10.png)
+
+## Project explanation
+[Youtube link](https://drive.google.com/drive/folders/18hrbUlK1-fwN2j3exj2JmIf_pVcZTL_U?usp=sharing)
+
 ## Usage
 You can simply train the model by execute train.py with some user-defined parameter.
 
